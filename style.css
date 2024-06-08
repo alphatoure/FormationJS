@@ -1,0 +1,11 @@
+#phrase{
+    /* writing-mode: vertical-rl; */
+    justify-content: center;
+    text-align: justify;
+    scale: (4.3);
+color: rgba(0,0,0,0.37);
+
+}
+html{
+    scroll-behavior: smooth;
+}
